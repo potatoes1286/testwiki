@@ -1,0 +1,22 @@
+- name: Making mods
+  href: making_mods.md
+- name: MeatKit
+  href: meatkit/toc.yml
+  topicHref: meatkit/intro.md
+- name: Mapping
+  href: mapping/toc.yml
+  topicHref: mapping/index.md
+- name: Scripting
+  href: scripting/toc.yml
+  topicHref: scripting/intro.md
+- name: Implementing
+  href: implementing/toc.yml
+  topicHref: implementing/the_basics.md
+- name: Asset Replacement
+  href: asset_replacement/toc.yml
+  topicHref: asset_replacement/skin_making_basics/basics_1_tools.md
+- name: Thunderstore Packages
+  href: thunderstore/toc.yml
+  topicHref: thunderstore/uploading.md
+- name: Packing Deli mods
+  href: delimods.md
