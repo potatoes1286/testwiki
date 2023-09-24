@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The BepInEx Log
+grand_parent: Getting Started
 parent: Troubleshooting
 ---
 

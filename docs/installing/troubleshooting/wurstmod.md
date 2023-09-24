@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Troubleshooting for WurstMod
+parent: Troubleshooting
+grand_parent: Getting Started
 ---
 
 # Troubleshooting Wurstmod

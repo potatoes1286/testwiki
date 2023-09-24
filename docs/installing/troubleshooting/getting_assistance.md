@@ -2,6 +2,7 @@
 layout: default
 title: Getting Assistance
 parent: Troubleshooting
+grand_parent: Getting Started
 ---
 
 # Getting Assistance
