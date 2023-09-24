@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # H3VR Modding Wiki
 
 Welcome to the H3VR Modding Wiki.
