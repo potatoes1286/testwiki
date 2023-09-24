@@ -7,7 +7,7 @@ grand_parent: Making Mods
 
 If you would like to check your files before uploading, please see [TSGen.Check](https://github.com/nayr31/TSGen.Check).
 
-> [!NOTE]
+{: .note }
 > Windows defender or other antivirus programs may interfere with the mentioned programs, either run them as administrator or let them through temporarily.
 
 ## Required files for Thunderstore
@@ -76,7 +76,7 @@ Inside of the extracted TSGen folder, you should see a folder by the name of you
 
 # Manual Creation
 
-> [!NOTE]
+{: .note }
 > The manifests created from TSGen can still be modified using this section.
 
 ### icon.png
@@ -112,7 +112,7 @@ Dependencies are taken from the Thunderstore website. They are mods that your mo
 page on Thunderstore. Copy and paste the string listed to your dependencies.
 ![dependencies](images/thunderstore/dependencies.png)
 
-> [!NOTE]
+{: .note }
 > Once you have uploaded a mod under a name, *the name cannot be changed.*
 > Also, it must be noted that *you can only upload once per version*. If you upload v1.0.0, you must change your version next time you upload.
 

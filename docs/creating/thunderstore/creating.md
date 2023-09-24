@@ -7,7 +7,7 @@ grand_parent: Making Mods
 
 Depending on the [mod format](xref:formats), you will need to package your mod differently by using folders.
 
-> [!NOTE]
+{: .note }
 > The `[Your mod name/]` line refers to the `.zip` file you will upload to Thunderstore.
 
 ## Stratum mods

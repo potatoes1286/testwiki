@@ -47,7 +47,7 @@ helpful to know what comes before and after errors.
                ⬑ The second column tells you where this message came from.
 ```
 
-> [!NOTE]
+{: .note }
 > Sometimes log messages might show up as coming from the "Unity Log". Most of the time these messages come from the game itself, but in rare cases it might be a plugin using the game's Unity logger instead of the BepInEx provided logger.
 
 Next, we'll take a look at some warnings. Warnings can be a bit ambiguous as they sometimes are important and sometimes

@@ -61,5 +61,5 @@ When it does, click "Import"
 
 Now, the images should be available as an Alpha and Base Color!
 
-> [!NOTE]
+{: .note }
 > For public releases of skins, if images used as stamps are not original works, I 100% recommend for you to leave the source of the images used, something like a txt file associated with the hotmod/zip file of the skin. Or, leave a source in the Bonetome Submission Description if you plan on making it public with Bonetome. If the skin is a duplicate of a gun skin from another game, mention that it is a recreation of the skin from said game.

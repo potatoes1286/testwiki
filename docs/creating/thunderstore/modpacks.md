@@ -27,7 +27,7 @@ specific.
 
 ## Getting your list ready
 
-> [!NOTE]
+{: .note }
 > The term "string" is used to describe a length of text, and is used in programming. More information [here](https://www.tutorialspoint.com/computer_programming/computer_programming_strings.htm), although it is not required for this guide.
 
 Have the perfect mod list ready to go in r2mm or tsmm? Great!

@@ -113,7 +113,7 @@ normal).
 
 ## Modifying your item
 
-> [!NOTE]
+{: .note }
 > GameObjects in your Hierarchy window are not saved, make sure to press the "Apply" button in the Inspector to save your changes.
 
 Drag your item (that you should have renamed) into your Hierarchy, and expand it by clicking on the little arrow. You

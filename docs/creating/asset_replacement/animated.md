@@ -98,7 +98,7 @@ part...
 
 ## Step 4 - Incandescence, the map of Animation
 
-> [!NOTE]
+{: .note }
 > The starter pack will include a bundle of Incandescence PNGs, so you can skip this part if you already have one that works with your skin.
 
 To bring these emissions to light, you need a fifth png. A black and white png that scrolls through the Emissive texture

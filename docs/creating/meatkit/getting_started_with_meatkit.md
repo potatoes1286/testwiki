@@ -17,7 +17,7 @@ If you do not have Unity 5.6.7f1 installed, you must go and [download it from th
 
 You may also install the editor with Unity Hub, if you prefer to do it that way. If you choose to use Unity Hub, know that the first time you try and open a project it may hang on the splash screen. To resolve this you have to open it directly (not through Unity Hub) and register your license from there instead.
 
-> [!NOTE]
+{: .note }
 > If you already have another version of the Unity Editor installed, you may want to change the install location for 5.6.7f1 to avoid conflicts with other versions.
 
 When the Editor is finished installing, go ahead and open it. It will ask you to log in with your Unity account and then let you register your license. If you do not have a license, just select the 'personal' option and continue. You won't be missing out on any features by doing so. Once you get to the screen for creating a project, you can move on.

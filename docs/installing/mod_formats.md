@@ -35,7 +35,7 @@ Deli mods require [Deli 0.4.1](https://h3vr.thunderstore.io/package/DeliCollecti
 other mods. For instance, Deli mods that contain custom items or ammo also
 require [OtherLoader](https://h3vr.thunderstore.io/package/devyndamonster/OtherLoader/).
 
-> [!NOTE]
+{: .note }
 > File extensions are disabled by default in File Explorer. In that case, uncommon file extensions will appear under `File Type` column.
 
 ## Sideloader Mods

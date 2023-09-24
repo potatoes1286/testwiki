@@ -28,7 +28,7 @@ of your profile folder, which you just opened.
 
 Sideloader mods go into the `BepInEx/Sideloader/` folder.
 
-> [!NOTE]
+{: .note }
 > If the folder is not present, let the game make it for you. If they are not being created, ensure that you have run the game at least once with Sideloader installed. Failure to do so will result in all of your Sideloader mods being wiped.
 
 ## Asset Bundles
@@ -48,5 +48,5 @@ BepInEx/
                 bundle_b.manifest
 ```
 
-> [!NOTE]
+{: .note }
 > `.manifest` files are not required. They are documentation files used by other modders and have no effect on the mod.

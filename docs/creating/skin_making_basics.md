@@ -120,7 +120,7 @@ for Blender)
 
 Save in a location close to those Texture files (If you have that dedicated folder, these would be placed in Mesh)
 
-> [!NOTE]
+{: .note }
 > If your item uses a magazine, check under the 'magazine' containers for any additional meshes belonging to your item.
 
 # 3. Blender

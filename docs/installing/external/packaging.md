@@ -33,7 +33,7 @@ plugins/
         bundle_b.manifest
 ```
 
-> [!NOTE]
+{: .note }
 > `.manifest` files are not required. They are documentation files used by other modders and have no effect on the mod.
 
 Zip the `plugins` folder itself to create an r2modman package ready for local import.
