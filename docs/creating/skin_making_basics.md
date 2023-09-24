@@ -24,8 +24,8 @@ Tools needed:
 - [Alt Link for "Alloy"](https://www.mediafire.com/file/pl4wxtrj9yxlfae/Alloy.spexp/file)
 
 # 2. Meshes and Textures
-> [!NOTE]
-> Select guns are pre-packaged and ready to be made into skins thanks to yours truly. You can totally skip these parts if your gun is in these packs! Hundreds of gun canvases to choose from, look down below in the ['Extras'](extras.md) tab for "Skinmaker Skips".
+{: .note }
+Select guns are pre-packaged and ready to be made into skins thanks to yours truly. You can totally skip these parts if your gun is in these packs! Hundreds of gun canvases to choose from, look down below in the ['Extras'](extras.md) tab for "Skinmaker Skips".
 
 Once we have our tools, it is time to use them.
 

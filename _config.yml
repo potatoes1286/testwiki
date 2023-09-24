@@ -7,4 +7,16 @@ url: https://potatoes1286.github.io/testwiki
 aux_links:
   Contribute on GitHub: https://github.com/potatoes1286/testwiki
 
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: cyan
+
 favicon_ico: "/docs/images/Smol_SpannerDog.ico"
