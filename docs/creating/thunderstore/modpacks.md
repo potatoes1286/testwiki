@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Making Modpacks
+parent: Thunderstore
+grand_parent: Making Mods
 ---
 
 Got a list a mods you would like to share with the community? Take a look at the steps below for information on creating
