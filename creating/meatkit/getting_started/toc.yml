@@ -1,6 +1,0 @@
-﻿- name: "1. Setup"
-  href: 1_setup.md
-- name: "2. Build Profile"
-  href: 2_build_profile.md
-- name: "3. Creating"
-  href: 3_creating.md
