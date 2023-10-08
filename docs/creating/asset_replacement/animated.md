@@ -127,4 +127,4 @@ Save it as "incan.png" with the other four exports. Now that we have the last pi
 
 Step 5 and 6 have been moved to their own pages.
 
-On to [Animated Skins - Unity](animated_unity.md).
+On to [Animated Skins - Unity](animated_unity).

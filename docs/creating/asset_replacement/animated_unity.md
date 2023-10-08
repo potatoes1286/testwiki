@@ -93,7 +93,7 @@ Alright! This material is ready to go!
 
 Now, it's not gonna be called "new material" forever, but this next step is important.
 
-> [!WARNING]
+{: .warning }
 > The name you give your material will be needed for the hotmodding step, so keep it simple!
 
 Lowercase, underscores, and keep it small. All my animated materials start with "tdam_" but yours can be different.

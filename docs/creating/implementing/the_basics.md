@@ -128,7 +128,7 @@ Make sure they are somewhat accurate, but don't spend too much time since they o
 To add more, you can duplicate ones already made (by right-clicking in the Hierarchy and clicking duplicate) or by
 creating an empty game object (also in the Hierarchy) and adding the component you want in the Inspector window.
 
-> [!WARNING]
+{: .note }
 > Using anything other than sphere, capsule, or box colliders effects performance considerably. Avoid them at all costs.
 
 Everything is dependent on the type of item you are trying to create, which cannot be explained in a guide like this.

@@ -27,7 +27,7 @@ When the Editor is finished installing, go ahead and open it. It will ask you to
 2. Unzip MeatKit and open the folder with your installed version of Unity.
 3. With the project open, select `MeatKit > Scripts > Import Game` on the menu bar at the top and point it to your `h3vr/h3vr_Data/Managed` folder.
 
-> [!WARNING]
+{: .warning }
 > If you are getting compile errors for missing the game's assembly and / or cannot see the MeatKit menu bar item, go to `Edit > Project Settings > Player` and in the `Other Settings` tab, clear the `Scripting Define Symbols` field and hit enter, then re-import the game's scripts.
 
 ## Import Core Packages
@@ -44,13 +44,13 @@ You won't need to modify anything to get these to work, however you will want to
 
 Now click the big build button. When the build is finished, the 'last build time' in the build window will update to reflect the current time, and because of the selected build action, the mod has been inserted into the selected profile and is ready to test.
 
-> [!NOTE]
+{: .note }
 > The mod will not show up in r2mm's installed list as it doesn't take into account mods installed outside the app, but it is installed and running that profile will cause it to be loaded.
 
 ## Updating MeatKit
 As of MeatKit v3, an updater window is built into MeatKit. You can check for updates to MeatKit by opening it on the menu bar `MeatKit > Check for updates` and clicking the check for updates button. If an update is available another button will appear to update to the latest version. 
 
-> [!WARNING]
+{: .warning }
 > MeatKit updates itself by removing and re-downloading the entire `Assets/MeatKit` folder in your project. _Do not_ store your own files in there or make any changes to files expecting them to be permanent.
 
 ## Summary
@@ -69,10 +69,10 @@ For now, just change the `Package Name`, `Author`, `Version`, and `Description`.
 
 Just changing the values here is all you need to do to rebrand your mod. If you'd like, you can re-build your mod from the build window to verify these changes were indeed made.
 
-> [!NOTE]
+{: .note }
 > Using the copy to profile action, if you change the name or author of your mod the previous mod will not be removed from the profile. This can be done manually by going into that profile's plugins folder and removing the old mod folder.
 
-> [!NOTE]
+{: .note }
 > Sometimes a message box will appear beneath settings that you edit. They will contain a symbol to indicate the importance of the message (info, warning, error), as well as some text. If there is an error message anywhere in any of your settings, MeatKit will not let you build your package until you correct it. 
 
 ## Build Items
