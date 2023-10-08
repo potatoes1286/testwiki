@@ -22,6 +22,6 @@ The following are steps on how to update your mod that is current hosted on Thun
    . In short, if you are making a patch (minor change, fix) increase the third number (1.2.3 -> 1.2.4). If you are
    making a larger change increase the second number (1.2.3 -> 1.3.0). If you are making an extremely big change that
    adds or changes major things, increase the first number (1.2.3 -> 2.0.0).
-3. Change your [mod files] to their newer version, making sure to follow [Thunderstore's packaging rules](creating.md).
+3. Change your [mod files] to their newer version, making sure to follow [Thunderstore's packaging rules](creating).
 4. Zip your files together once more for upload.
 5. Upload your mod in the same place you uploaded it the first time, making sure to select the correct tag(s).

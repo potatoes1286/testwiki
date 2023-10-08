@@ -5,7 +5,7 @@ parent: Implementing Basics
 grand_parent: Making Mods
 ---
 
-This guide assumes you know [the basics](the_basics.md) of implementation and the common terms used, as well as how to
+This guide assumes you know [the basics](the_basics) of implementation and the common terms used, as well as how to
 navigate the Unity window.
 
 ## Step 1: Materials and Pre-requisites
@@ -61,7 +61,7 @@ assets tray. Press play again.
 
 ## Step 3: Required changes
 
-Like usual, you need to replace the missing materials of the grenade with your own. [The basics](the_basics.md) goes
+Like usual, you need to replace the missing materials of the grenade with your own. [The basics](the_basics) goes
 over this, and will not be repeated on how to import assets into unity.
 
 The following things need assets:

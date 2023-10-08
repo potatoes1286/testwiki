@@ -6,7 +6,7 @@ grand_parent: Making Mods
 ---
 
 This tutorial assumes you know how to implement weapons in unity on a basic level. If you don't, check out Andrew_FTW's
-tutorial. A link can be found in the [Making Mods](../../making_mods.md) doc. This tutorial also assumes you are using
+tutorial. A link can be found in the [Making Mods](../../making_mods) doc. This tutorial also assumes you are using
 one of the default AK/AR/P226 platforms to make your mod. If you aren't, just make more attachment mounts like standard
 piccaninny rails.
 

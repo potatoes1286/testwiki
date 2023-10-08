@@ -17,7 +17,7 @@ to create custom sandbox scenes, take and hold levels, or any kind of custom gam
 could ever think of.
 
 ## Getting started with Atlas
-Atlas uses a MeatKit project as the development environment. If you don't have a MeatKit project setup with the Atlas package imported, please reference the [MeatKit getting started guide](../../../meatkit/getting_started/1_setup.md).
+Atlas uses a MeatKit project as the development environment. If you don't have a MeatKit project setup with the Atlas package imported, please reference the [MeatKit getting started guide](../meatkit/getting_started_with_meatkit).
 
 ### Atlas Basics
 Because Atlas uses Unity for mapping directly, if you are already familiar with the general Unity workflow there will be no surprised here. If you aren't, this guide will explain enough to allow you to start making your own simple environments.
@@ -61,7 +61,7 @@ Save your scene to a new empty folder in your project and continue to the next s
 ### Testing
 With all of that setup, you are now good to start testing your scene. For this, you will need a
 MeatKit build profile with your scene as a build item. For more information about the MeatKit build
-pipeline, see the [MeatKit documentation](../../../meatkit/intro.md).
+pipeline, see the [MeatKit documentation](../meatkit/meatkit_technical_info).
 
 Locate the existing build profile in `Packages/Atlas/Sample` and make a copy of it by selecting it
 and hitting `Ctrl+D`. You will likely want to move this copied file to its own folder. Then, right

@@ -21,4 +21,4 @@ Custom sandbox scenes will be located in the main menu directly behind you when 
 the other vanilla scenes you must point at it and pull the trigger to select it, then head over to the panel and select
 load just as you would with a normal vanilla scene.
 
-[!include[Getting Assistance](getting_assistance.md)]
+[!include[Getting Assistance](getting_assistance)]

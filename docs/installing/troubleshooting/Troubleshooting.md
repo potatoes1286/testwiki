@@ -86,4 +86,4 @@ below to get more specific troubleshooting steps.
 
 * [WurstMod and custom maps](wurstmod.md)
 
-[!include[Getting Assistance](getting_assistance.md)]
+[!include[Getting Assistance](getting_assistance)]

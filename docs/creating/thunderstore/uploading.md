@@ -134,6 +134,6 @@ Once you have these three files, you should end up with this:
     README.md
 ```
 
-Please see the [the next step, Adding Your H3VR Content To Your Package](creating.md) page for details on how to place
+Please see the [the next step, Adding Your H3VR Content To Your Package](creating) page for details on how to place
 your mod into this file structure.
 

@@ -12,7 +12,7 @@ attachments (which is bad).
 
 Another interesting feature is having attachments pre-attached onto your receiver. This is done by using
 Cityrobo's [`PreattachedAttachment` script](https://github.com/cityrobo/H3VR_Mods/blob/master/PreattachedAttachment/PreattachedAttachment.cs) (
-more information in the [tutorial doc](../pre-attached_attachments.md)). However, you can't simply use the script, as
+more information in the [tutorial doc](../pre-attached_attachments)). However, you can't simply use the script, as
 every time you vault a weapon with different attachments it will spawn both the default ones you specify and the new
 ones the user applied.
 

@@ -202,4 +202,4 @@ Once built, you are all done!
 
 Now... The hotmodding..
 
-On to [Animated Skins - Hotmodding](animated_hotmod.md).
+On to [Animated Skins - Hotmodding](animated_hotmod).

@@ -55,7 +55,6 @@ As of MeatKit v3, an updater window is built into MeatKit. You can check for upd
 
 ## Summary
 Congratulations, you've built your first mod using MeatKit!  
-Next: [Changing the build settings](2_build_profile.md)
 
 # 2. MeatKit build profiles
 In MeatKit, there are files which store your build profiles. Each profile is a different configuration which represents a single Thunderstore package and the assets which are set to be included in it. 
@@ -87,13 +86,10 @@ This is just a list of the Thunderstore packages your mod will depend on. Some b
 
 You can also add your own here if you are making a more complex mod and need to set one up manually.
 
-## Summary
-After rebranding your package, you can [move on to creating your first mod](3_creating.md).
-
 # 3. Creating A Mod
 Congratulations, you now know the basics of MeatKit and can start making your own mod!
 
 Currently, MeatKit supports both Atlas and OtherLoader.
-To make custom maps, check out the [Atlas section of the wiki](../../mapping/atlas/intro.md).
+To make custom maps, check out the [Atlas section of the wiki](../mapping/Mapping_In_H3VR).
 To make custom guns, check out the [video playlist guide for OtherLoader](https://www.youtube.com/watch?v=BScDQiGCRAM&list=PL4xZPb3t-cEFkCxo648hdTulxKYy08thY)
 

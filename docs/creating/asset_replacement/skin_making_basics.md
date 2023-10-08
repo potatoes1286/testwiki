@@ -26,7 +26,7 @@ Tools needed:
 # 2. Meshes and Textures
 
 {: .note }
-> Select guns are pre-packaged and ready to be made into skins thanks to yours truly. You can totally skip these parts if your gun is in these packs! Hundreds of gun canvases to choose from, look down below in the ['Extras'](extras.md) tab for "Skinmaker Skips".
+> Select guns are pre-packaged and ready to be made into skins thanks to yours truly. You can totally skip these parts if your gun is in these packs! Hundreds of gun canvases to choose from, look down below in the ['Extras'](#extras) for "Skinmaker Skips".
 
 Once we have our tools, it is time to use them.
 
@@ -374,7 +374,7 @@ Do keep a cautious eye for _MainTex names that seem a bit too broad!
 ***CONGRATS!*** You know the basics of making skins! You are now ready to make all sorts of skins!
 
 But! Stick around! There's more to learn about what you can do for your skins in
-the [Skin Making Advanced](../skin_making_advanced/stamp.md) course!
+the [Skin Making Advanced](../skin_making_advanced/stamp) course!
 
 # Extras
 

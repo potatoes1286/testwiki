@@ -5,7 +5,7 @@ parent: Getting Started
 has_children: true
 ---
 
-Some external mods may not be one of the [mod formats supported by r2modman](importing.md#supported-formats). These mods
+Some external mods may not be one of the [mod formats supported by r2modman](importing#supported-formats). These mods
 can instead be manually installed as a last resort.
 
 From r2modman's settings, search for `Browse Profile Folder` and click on it.

@@ -5,7 +5,7 @@ parent: Thunderstore
 grand_parent: Making Mods
 ---
 
-Depending on the [mod format](xref:formats), you will need to package your mod differently by using folders.
+Depending on the [mod format]({{site.baseurl}}/docs/installing/mod_formats), you will need to package your mod differently by using folders.
 
 {: .note }
 > The `[Your mod name/]` line refers to the `.zip` file you will upload to Thunderstore.

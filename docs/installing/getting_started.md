@@ -19,7 +19,7 @@ If you would prefer a video tutorial, you can find one here by Jeditobiwan:
 ## Installing Mods via r2modman
 
 > [!WARNING]
-> If you have installed mods previously from another storefront, please preform a [clean install](starting_fresh.md).
+> If you have installed mods previously from another storefront, please preform a [clean install](starting_fresh).
 
 > [!IMPORTANT]
 > Mods are no longer installed to the root H3VR directory! Please read the tutorial carefully.
@@ -53,7 +53,7 @@ Please see the @"importing" doc for more information.
 Many common problems can be found on the r2modman wiki
 page, [Why aren't my mods working?](https://github.com/ebkr/r2modmanPlus/wiki/Why-aren%27t-my-mods-working%3F), provided
 by Ebkr.  
-For less common problems, see the [Troubleshooting](troubleshooting/index.md) articles for more details. New problems
+For less common problems, see the [Troubleshooting](troubleshooting/Troubleshooting) articles for more details. New problems
 are found every day, but yours will likely be on this page.
 
 ## Configuring Mods

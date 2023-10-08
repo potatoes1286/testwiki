@@ -16,8 +16,6 @@ understanding can significantly improve your workflow.
 The articles will be separated into sections, organized into a typical MeatKit
 workflow order. Import, develop, export, etc.
 
-First article: [Understanding the formats](./2_formats.md)
-
 # 2. Understanding the formats
 The following articles require some understanding of two main things; .NET Assemblies, and Unity
 Asset Bundles. This article will explain what you need to know about them so you can later
@@ -63,9 +61,6 @@ that you may want to find later.
 ## What you need to remember
 - Compiling code is not perfectly reversible, decompiled code will likely have errors and will not be re-compilable.
 - Unity Asset bundles store references to scripts on objects by the name of the assembly that contains them, alongside the name of the script itself.
-
-With that out of the way, you can continue to the first article about MeatKit: [Importing the game](./3_importing.md).
-
 
 # 3. Importing the game
 
@@ -152,9 +147,6 @@ want to use code from the game to point to the new name instead so it can find t
 If you have an assembly that is neither the game's, nor references the game's, it requires no importing
 and can be placed in your project as-is.
 
-Next article: [Build pipeline](./4_build_pipeline.md).
-
-
 # 4. Build pipeline
 The MeatKit build pipeline is a general name all of the tools that are used to setup and perform
 a build of your mod. The start of which involves the build profile and build items.
@@ -199,8 +191,6 @@ created at the same time (more on this later).
 action is 'Copy to folder', then the built files are copied into a selected thunderstore profile folder.
 And if the action is to create a Thunderstore package, then all the files are zipped up, ready to be
 uploaded.
-
-Next article: [Exporting](./5_exporting.md).
 
 # 5. Exporting
 During the build process, there's two types of special exports. Asset bundles, and script assembly.

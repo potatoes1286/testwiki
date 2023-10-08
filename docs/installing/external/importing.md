@@ -5,7 +5,7 @@ parent: Manual Installation
 grand_parent: Getting Started
 ---
 
-Mods found outside r2modman need to be installed a certain way, which depends on their [mod format](xref:formats).
+Mods found outside r2modman need to be installed a certain way, which depends on their [mod format](../mod_formats).
 
 ## Supported Formats
 
@@ -28,5 +28,5 @@ needed, such as Sideloader mods.
 ## Unsupported Mods
 
 If a mod is not in a supported format, additional work is required.  
-An unsupported mod may be [manually installed](manual.md) or [packaged](packaging.md). Manual installation is quicker,
+An unsupported mod may be [manually installed](manual_installation) or [packaged](packaging). Manual installation is quicker,
 but packaging allows r2modman to manage it.

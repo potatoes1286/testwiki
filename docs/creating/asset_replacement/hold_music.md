@@ -5,7 +5,7 @@ parent: Making Mods
 ---
 
 > [!NOTE]
-> [Potatoes TNH BGM Loader](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_TNH_BGM_Loader/) is required for these types of mods to work. Check out the [Thunderstore creation](../../thunderstore/creating.md#tnh-music) page more more details on what your Thunderstore package should look like before uploading.
+> [Potatoes TNH BGM Loader](https://h3vr.thunderstore.io/package/Potatoes/Potatoes_TNH_BGM_Loader/) is required for these types of mods to work. Check out the [Thunderstore creation](../../thunderstore/creating#tnh-music) page more more details on what your Thunderstore package should look like before uploading.
 
 Hiya! This is the tutorial to make your own TNH hold themes.
 

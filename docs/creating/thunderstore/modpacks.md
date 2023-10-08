@@ -22,7 +22,7 @@ listed mods at once, making it very convenient.
 
 This means that it is just a regular mod you would upload, and can include it's own custom content.
 
-The [creating](creating.md) and [uploading](uploading.md) pages are for other mods, so this one will be modpack
+The [creating](creating) and [uploading](uploading) pages are for other mods, so this one will be modpack
 specific.
 
 ## Getting your list ready
