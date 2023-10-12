@@ -84,6 +84,4 @@ Potential fixes:
 If you already know what mod you're having issues with or have found out by reading your log file you can select it from
 below to get more specific troubleshooting steps.
 
-* [WurstMod and custom maps](wurstmod.md)
-
-[!include[Getting Assistance](getting_assistance)]
+* [WurstMod and custom maps](wurstmod)

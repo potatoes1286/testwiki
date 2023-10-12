@@ -18,10 +18,11 @@ If you would prefer a video tutorial, you can find one here by Jeditobiwan:
 
 ## Installing Mods via r2modman
 
-> [!WARNING]
+
+{: .warning }
 > If you have installed mods previously from another storefront, please preform a [clean install](starting_fresh).
 
-> [!IMPORTANT]
+{: .important }
 > Mods are no longer installed to the root H3VR directory! Please read the tutorial carefully.
 
 Once you have installed r2modman and opened it, you will be greeted by a page asking you which game you would like to
