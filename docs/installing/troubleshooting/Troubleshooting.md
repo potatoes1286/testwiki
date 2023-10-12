@@ -8,7 +8,7 @@ has_children: true
 Read through this guide from top to bottom and follow the steps within to narrow down what is causing the issue and what
 potential fixes you may have.
 
-> [!WARNING]
+{: .warning }
 > This guide assumes you are using r2modman / Thunderstore Mod Manager.
 
 ## None of my mods are working / the game doesn't open
