@@ -4,6 +4,10 @@ title: Guide to Thunderstore
 parent: Making Mods
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 # 1. Preparing Your Manifest And Package
