@@ -4,6 +4,8 @@ title: Guide to Thunderstore
 parent: Making Mods
 ---
 
+{:toc}
+
 # 1. Preparing Your Manifest And Package
 
 If you would like to check your files before uploading, please see [TSGen.Check](https://github.com/nayr31/TSGen.Check).
