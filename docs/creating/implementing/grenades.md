@@ -5,6 +5,12 @@ parent: Implementing Basics
 grand_parent: Making Mods
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 This guide assumes you know [the basics](the_basics) of implementation and the common terms used, as well as how to
 navigate the Unity window.
 

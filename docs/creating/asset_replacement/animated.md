@@ -5,6 +5,12 @@ parent: Skin Making Basics
 grand_parent: Making Mods
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 If you want to go the extra mile, you can make animated skins for H3VR as well. Before I explain how:
 
 You'll be needing Unity in addition to what you currently have.

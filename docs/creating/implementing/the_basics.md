@@ -5,6 +5,12 @@ parent: Making Mods
 has_children: true
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 This document is meant as a quick reference guide, and should not be substituted for a comprehensive tutorial.
 
 ## Required/Recommended tools

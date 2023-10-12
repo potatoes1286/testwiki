@@ -5,6 +5,12 @@ parent: Making Mods
 has_children: true
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # 1. Tools
 
 Once you got H3VR skin-ready, we can move on to the Meat and Potatoes: making skins for guns! You will need various
